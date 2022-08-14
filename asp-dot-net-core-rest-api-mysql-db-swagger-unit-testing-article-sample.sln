@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "asp-dot-net-core-rest-api-mysql-db-swagger-unit-testing-article-sample", "..\asp-dot-net-core-rest-api-mysql-db-swagger-unit-testing-article-sample\asp-dot-net-core-rest-api-mysql-db-swagger-unit-testing-article-sample.csproj", "{399E51A9-C5C1-4D02-B8E3-7D718DC464E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "articles-rest-api-unit-testing", "..\articles-rest-api-unit-testing\articles-rest-api-unit-testing.csproj", "{F2F935C8-26C0-4F60-B0D9-AE6DE7354083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{399E51A9-C5C1-4D02-B8E3-7D718DC464E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399E51A9-C5C1-4D02-B8E3-7D718DC464E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399E51A9-C5C1-4D02-B8E3-7D718DC464E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399E51A9-C5C1-4D02-B8E3-7D718DC464E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2F935C8-26C0-4F60-B0D9-AE6DE7354083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F935C8-26C0-4F60-B0D9-AE6DE7354083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F935C8-26C0-4F60-B0D9-AE6DE7354083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F935C8-26C0-4F60-B0D9-AE6DE7354083}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E368733-95DE-4C22-9CAD-9C3B5380EBA5}
+	EndGlobalSection
+EndGlobal
